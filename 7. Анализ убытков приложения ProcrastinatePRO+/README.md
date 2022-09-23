@@ -1,2 +1,2 @@
-7 проект. Анализ убытков приложения ProcrastinatePRO+
+Анализ убытков приложения ProcrastinatePRO+
 ---
